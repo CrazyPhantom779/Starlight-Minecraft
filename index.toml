@@ -3,3 +3,203 @@ hash-format = "sha256"
 [[files]]
 file = "README.md"
 hash = "d69b692117c0567b20141b5a7d10e64fb8dff50810044744d8b77a42eff10e8e"
+
+[[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "014ee07aad95d234a4be89ab018d7cc72b9b41999bf0d5f45de11b509a10bd5e"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "3ac93fcf9be618db321efebbbd55045878dec6119fa05b3188cbda746c978748"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "0bc4527d43a4f7a29a62801efe3cde624aeabf519ab0aebf26c06ae6d7fc9f0b"
+metafile = true
+
+[[files]]
+file = "mods/byte.pw.toml"
+hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "7c9a7c6b0ba555d29cdff0c2874dfee7d1cd7807f084fcf08b3820b382dc3cb8"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/crystal-chronicles.pw.toml"
+hash = "25e072597f446e9eca5d897ab7c91f3c11011eb2184855b48bf5a11d57b6c516"
+metafile = true
+
+[[files]]
+file = "mods/crystcursed-dragon.pw.toml"
+hash = "931fee95cac13460cd1ecc88e4f8564dcba8d5e2a51fb4523f8974d0857fe68f"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "a079bf8579ded1a9eeba488f91bdf632a41ac2c35a0cccd8c3aa3cc9ddb7250d"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/dragons-survival.pw.toml"
+hash = "f5a4a13781875049133309824f99150a031bed1b51f03ef2a968565bd45b5c5c"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
+metafile = true
+
+[[files]]
+file = "mods/gtbcs-spellbooks.pw.toml"
+hash = "3074becb4af3c5775b077319fa98de738ea77eccfff89c89a9eff7df34a7aa8d"
+metafile = true
+
+[[files]]
+file = "mods/gtbcs-spelllib.pw.toml"
+hash = "c2477f9bb82634af45d70a97e6fde7d31f1aa0d2e1a07210ec425243d350b6ba"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks-aeronautics.pw.toml"
+hash = "b5232be9ca8908c900eab46c14c8789a4a902b77b9d215062beba7f680a01533"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "46fd3a8062699383239729b7f4937fdd83177581492d3b12c8ad74dd52bfe05a"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
+metafile = true
+
+[[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "aca4e84b4e55285bf053edd0fac93adae588916738eee937f859ebca67ebc82e"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "74b981b04f079323585e4e7b5a7aa268edabd0b3e76f6f7cba6c4e7a7c1bb280"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "1134f984e86802d46b0194e25526e7c52b6b221e1fbca304491ae318a4d634b5"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "f8236c140143de687f583a295d779b636d36ffc9343f110f8ee563b46a601541"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
+metafile = true
+
+[[files]]
+file = "mods/shrink.pw.toml"
+hash = "16d05386b8fd97a2768f391fe5a233be45a72ee396ac3ab2ab7bf034a4483015"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "044596b6a2063f3328785d905de83fc3e35122f03ffc174019cf9139e3eb2d2f"
+metafile = true
+
+[[files]]
+file = "mods/winds-spellbooks.pw.toml"
+hash = "e174ded612bdae826523460c671f0486e68b769007c41cb892fab4b22809ac02"
+metafile = true
