@@ -1,0 +1,13 @@
+name = "CC-Harddisks"
+filename = "harddisks-1.0.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TRRtSJ4s/versions/72vUdglB/harddisks-1.0.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "454fd53c0069bbd537066d5a377a6a2a1d6d37536e310a3852610961a8a7414fc1aa68733dccebd9abd5662d46269d150f7ce4fe728219144befc58df2c3b319"
+
+[update]
+[update.modrinth]
+mod-id = "TRRtSJ4s"
+version = "72vUdglB"
