@@ -6,7 +6,7 @@ hash = "d69b692117c0567b20141b5a7d10e64fb8dff50810044744d8b77a42eff10e8e"
 
 [[files]]
 file = "kubejs/server_scripts/extereme_to_mechanical.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "2fd1963002cb0112348c44347765a5dca2715079b79779e3798d4bee354fa80a"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
