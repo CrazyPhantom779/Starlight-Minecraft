@@ -1,0 +1,13 @@
+name = "Replication Upgrade"
+filename = "rep_up-1.0.0.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VhgVnRWY/versions/kEWuhLtq/rep_up-1.0.0.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "de9287bf34def3f4cf709bc608ce058f655e30ad6971b444c56f2e284141184dc8fbd7b5b34f087fe9ea1acd99e71c867614d633fe7dd72cade1729d543acf41"
+
+[update]
+[update.modrinth]
+mod-id = "VhgVnRWY"
+version = "kEWuhLtq"

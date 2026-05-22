@@ -1,0 +1,13 @@
+name = "Replication Extended Registry"
+filename = "rep_ext_reg-1.0.0.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/39L8Dxh3/versions/boitchlX/rep_ext_reg-1.0.0.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "63fc2b44404492586c95d0430892f665d2247eb760fe84850029e8d45a835a35c5716315530fc8b64d461b7cc52a7c474d6f6d016cea156e4e09ab82ca7a8380"
+
+[update]
+[update.modrinth]
+mod-id = "39L8Dxh3"
+version = "boitchlX"
