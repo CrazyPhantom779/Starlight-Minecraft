@@ -1,0 +1,8 @@
+#Common configuration settings
+[common]
+	#Disable overlay previewing tome conversion
+	disable_overlay = false
+	#Whitelisted items
+	items = ["ae2:guide", "ars_nouveau:worn_notebook", "integrateddynamics:on_the_dynamics_of_integration", "rftoolsbase:manual", "stellaris:tablet", "spectrum:guidebook", "mahoutsuikai:guidebook"]
+	#Mod aliases
+	aliases = ["mythicbotany=botania", "integratedtunnels=integrateddynamics", "integratedterminals=integrateddynamics", "integratedcrafting=integrateddynamics", "rftoolsbuilder=rftoolsbase", "rftoolscontrol=rftoolsbase", "rftoolsdim=rftoolsbase", "rftoolspower=rftoolsbase", "rftoolsstorage=rftoolsbase", "rftoolsutility=rftoolsbase", "rftoolspower=rftoolsbase", "deepresonance=rftoolsbase", "xnet=rftoolsbase", "mysticalaggraditions=mysticalagriculture"]

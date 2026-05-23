@@ -20,9 +20,9 @@ ServerEvents.recipes(event => {
         const avarita = JSON.parse(r.json.toString())
         const create = {
             "type": "create:mixing",
-            "ingredients": r.ingredients,
+            "ingredients": avarita.ingredients,
             "heat_requirement": "superheated",
-            "results": [r.result],
+            "results": [avarita.result],
         }
         event.custom(create)
     })

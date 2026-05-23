@@ -140,6 +140,11 @@ hash = "7e73acfa2dd0c1110f0c014c0d1f75279c7f03d7343cde03f9983db80d8a114f"
 metafile = true
 
 [[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "5017318275b2a0d9063eecfa0f6e8a266d5f1401a3c5b4113f3b7caf1f09f2a9"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "a1ea92ffe3fc0682624b8b1abe65c3cbc0cb138ff4330740f23af1a0ef8a8e39"
 metafile = true
@@ -290,6 +295,11 @@ hash = "17d24489ef3eb8819004e54873200fdb683250b430f4419aa9a03f01e20f52e3"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "a7c6f90493f75d52a26a04765c0f3abd6e554128204040fa3be00e6122d43f17"
+metafile = true
+
+[[files]]
 file = "mods/dragons-survival.pw.toml"
 hash = "6153ac306fdcbd2d05441f244471197fe231a49e4de1741815716d83f34be33b"
 metafile = true
@@ -352,6 +362,21 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "3a6fa08f57982bc7a560c438900af5d99850b8fb4abf8e44875a6bc28550f194"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "2dc570d4895ccd4b307f9c5884306c2592d30f961d554036d48a8abc59ad699a"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "a97a589180c303bd1285ade1076005af54430fa706ae23125aa6a14d6b7d039f"
+metafile = true
+
+[[files]]
+file = "mods/integratedmanager.pw.toml"
+hash = "e450fc9c5cd2202d39ccce0b70811ea356d86885a65b095a8ad519c4cbcb72e7"
 metafile = true
 
 [[files]]
