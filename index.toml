@@ -39,6 +39,11 @@ hash = "a04715d267cf8b26e8e39094967587574effd8f47e0aef5fec4aab7a30ac59ed"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "19d6b20763edf0247e395db37d6e7e5b012ca063f5820c81a6330baff2218c4e"
+metafile = true
+
+[[files]]
 file = "mods/analog-audio.pw.toml"
 hash = "7a002da9523d1fb204454508b25d7f9de93dbf752660034a61715d0b4614198d"
 metafile = true
@@ -99,6 +104,11 @@ hash = "7e4e83ee61c31d6218b6ffd3b21fe76ec45fe24a92460c0051f6a975ad4794be"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "bbff83f5167e56b5cfd947b314b3193110d94425c2f45b385e19624a7c5346ef"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "1825b381fdc21403a4b1b1e99d277f8e00454b51d4afa94e7b415e0f66fd0cb2"
 metafile = true
@@ -129,6 +139,11 @@ hash = "3324cd934c3c7747114a7a4f8a02ce0362cc3bfbca3d6a98cd27550e4ddc7495"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
+metafile = true
+
+[[files]]
 file = "mods/classicperipherals.pw.toml"
 hash = "fefe23fa71808bcd7c252b0d7c60ec5fe17c7b28b8d7bf0dedcc12fec30eaecd"
 metafile = true
@@ -154,6 +169,11 @@ hash = "5017318275b2a0d9063eecfa0f6e8a266d5f1401a3c5b4113f3b7caf1f09f2a9"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "0869e78231ca67e18ebdc14af839af47fb046f100f3622a06fc099fce33eee17"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "a1ea92ffe3fc0682624b8b1abe65c3cbc0cb138ff4330740f23af1a0ef8a8e39"
 metafile = true
@@ -164,8 +184,13 @@ hash = "c2a2f47ca44ea2a835e4864e03ea25fd3f78b6c85f3c2608bbf6cf0fe3bcf8e5"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
-hash = "c5896918c7bf007b8355020319c3f6532ad6bae457f74a27a58e7b1a8c1d58b1"
+hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
@@ -236,6 +261,16 @@ metafile = true
 [[files]]
 file = "mods/create-meta-logistics.pw.toml"
 hash = "8979e6339ced2666fbe721d1faece5a12f0e45b62cb1d843bc4a569ea890e72c"
+metafile = true
+
+[[files]]
+file = "mods/create-more-package-couriers.pw.toml"
+hash = "9f6612c3600da90585aaac1020de82c7efaf8d6bfd07b59a56a4489b2e4dd81c"
+metafile = true
+
+[[files]]
+file = "mods/create-more-pipe-bombs-in-packages.pw.toml"
+hash = "a95e377ae8ab495a5bd6b68e32bc178fe80afe43df1d64a48210a3383f24d5e5"
 metafile = true
 
 [[files]]
@@ -326,6 +361,21 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "e1c5c80dacbbb218af03ad9cd76b2430e0e85763b6a7c867ee500630c998ce8e"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "a0d6c1c458975efd2a57b5d8d6920b0647a884cc77463be5716f93c3f0112cb5"
 metafile = true
 
 [[files]]
@@ -458,6 +508,21 @@ hash = "f8dc6f5d191e38770d95499ce802eba89afc232a04043d4adb6fc6a029d6a925"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "32551cd3db88210863565b772ee47679cbf1eeff163fb93b9ef84a79fa069496"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "97bc1ff3fd1dc98963c092a45ba0ecff49bd544ff0845fcec64d176f6050872c"
 metafile = true
@@ -478,6 +543,16 @@ hash = "eaa6320c41516ed8f4525a9bf8f53aca297ce942c4abab6264b5bc3e07025ca0"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "1b0bcb6b0739ac51a706398c6f3765e1875e95490a9284603ee5628c259a4f63"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "d7d730098fdb28da7ea837a7651f815b90a5b3cdc17ae268bc3635e546c14320"
 metafile = true
@@ -495,6 +570,21 @@ metafile = true
 [[files]]
 file = "mods/neoglass-0.1.1+alpha-neoforge.jar"
 hash = "21c66fbb2c975077b981acf2417c72e673d69b9527dad1de362dc18f55167b06"
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "c8416fe79c21e4d747cb9a4a955e185981a298653fd89c2ff73410b3280af35e"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
+metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
@@ -532,6 +622,16 @@ hash = "f54763bec4d37cb32e6b4538723aad9c65401d03084d44a7ec87457520d4f2e3"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "26943af2fab4bde348a5c680796972672c2b2c717a42dbaa53d6a6ef6ae44738"
 metafile = true
@@ -559,6 +659,11 @@ metafile = true
 [[files]]
 file = "mods/potentials.pw.toml"
 hash = "92446d159e74cb755c54cfffb6a3e5a0976ec4d203da360a327c6010daef3b51"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "a5170d69ea069773cad9186c1bc7f51bfc82045336292943b176875ccb55b0fe"
 metafile = true
 
 [[files]]
@@ -642,6 +747,11 @@ hash = "8dab125751a015fc1d1692ff652f379e49aa105e8093f9282cc0f673d1203c23"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "333658569a76adc35989f791a6c0b5d4745eeec2fd273631a1e22907bf1cd0c1"
+metafile = true
+
+[[files]]
 file = "mods/shrink.pw.toml"
 hash = "563b050331cedd0a5a77a625977e790f7e097cb47ab3602c5f17ea915dfe124d"
 metafile = true
@@ -689,6 +799,11 @@ metafile = true
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "a72b8c5632719771f919b9bda5c6ab23772ca69b2ff96b0ee3ac6d6b4d798611"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
