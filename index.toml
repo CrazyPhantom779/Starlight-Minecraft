@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "db7a8962b1be605181485b78dc04ebc9030b2001fefbd0bedaff5c494e40d944"
-
-[[files]]
 file = "kubejs/server_scripts/extereme_to_mechanical.js"
 hash = "2fd1963002cb0112348c44347765a5dca2715079b79779e3798d4bee354fa80a"
 
