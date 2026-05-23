@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/eccentrictome-common.toml"
+hash = "ce5e600bea7cd38475257761927c93eaf6012af7e314143b512fd9d287a50e6b"
+
+[[files]]
 file = "kubejs/server_scripts/extereme_to_mechanical.js"
-hash = "2fd1963002cb0112348c44347765a5dca2715079b79779e3798d4bee354fa80a"
+hash = "26dbf26d5946296757b21e64e2ee2b073589c59ff06201ee621274837bde6e2f"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -127,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/classicperipherals.pw.toml"
 hash = "fefe23fa71808bcd7c252b0d7c60ec5fe17c7b28b8d7bf0dedcc12fec30eaecd"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -365,6 +374,10 @@ hash = "3a6fa08f57982bc7a560c438900af5d99850b8fb4abf8e44875a6bc28550f194"
 metafile = true
 
 [[files]]
+file = "mods/immersive_portals-6.0.7-all.jar"
+hash = "ed279f2cb7eced337310f9932635f1afd25b3d5b27de233d1cebeaaa7f8d9158"
+
+[[files]]
 file = "mods/integrated-dynamics.pw.toml"
 hash = "2dc570d4895ccd4b307f9c5884306c2592d30f961d554036d48a8abc59ad699a"
 metafile = true
@@ -463,6 +476,10 @@ metafile = true
 file = "mods/morph-o-tool.pw.toml"
 hash = "3223cc51d29b96bcdf852a98dd269ec600d22cdcef56692b9f2845af5c876ee6"
 metafile = true
+
+[[files]]
+file = "mods/neoglass-0.1.1+alpha-neoforge.jar"
+hash = "21c66fbb2c975077b981acf2417c72e673d69b9527dad1de362dc18f55167b06"
 
 [[files]]
 file = "mods/numismatics.pw.toml"
