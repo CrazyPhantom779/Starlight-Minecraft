@@ -393,6 +393,16 @@ hash = "e450fc9c5cd2202d39ccce0b70811ea356d86885a65b095a8ad519c4cbcb72e7"
 metafile = true
 
 [[files]]
+file = "mods/inventory-interactions.pw.toml"
+hash = "2194ae5bb74b0ab9ad1c963ae9de59777ddc7dbdc598a26f0299b20313e3fab9"
+metafile = true
+
+[[files]]
+file = "mods/inventory-particles.pw.toml"
+hash = "bcbc59669e4f80e758ce08e43c5443beefeac7156e7ae209bfbdef42f1d397eb"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "6748f9c2c5d2663bb04987f09234f00e91a8c417b0f4ddfb48b9b295bd34f5d3"
 metafile = true
@@ -475,6 +485,11 @@ metafile = true
 [[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "3223cc51d29b96bcdf852a98dd269ec600d22cdcef56692b9f2845af5c876ee6"
+metafile = true
+
+[[files]]
+file = "mods/mossylib.pw.toml"
+hash = "72edcf7832961d09222e70a8add2480e4f65aafe31e66ddfb28805da8386ae3a"
 metafile = true
 
 [[files]]

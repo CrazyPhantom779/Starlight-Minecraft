@@ -1,0 +1,18 @@
+name = "Inventory Interactions"
+filename = "InventoryInteractions-1.1.0+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99e2f42141c2a8d126f6da287de3c773c57522b1"
+mode = "metadata:curseforge"
+
+[option]
+optional = true
+default = false
+description = "Adds physics to items when they are moved around. Requires Inventory Particles, MossyLib"
+
+[update]
+[update.curseforge]
+file-id = 7757111
+project-id = 1426644

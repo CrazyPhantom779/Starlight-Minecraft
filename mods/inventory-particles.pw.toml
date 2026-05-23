@@ -1,0 +1,18 @@
+name = "Inventory Particles"
+filename = "InventoryParticles-2.1.0+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f31424cf7ef48bcdb469e8321a53dd48368a6d3"
+mode = "metadata:curseforge"
+
+[option]
+optional = true
+default = false
+description = "Adds particles to items when they are moved around. Required by Inventory Interactions"
+
+[update]
+[update.curseforge]
+file-id = 8026578
+project-id = 1339689
