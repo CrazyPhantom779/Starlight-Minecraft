@@ -394,12 +394,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-interactions.pw.toml"
-hash = "2194ae5bb74b0ab9ad1c963ae9de59777ddc7dbdc598a26f0299b20313e3fab9"
+hash = "68214b3a6f493df1da836f97f9d2687c64597aa3f0f0be910cd53160b7df1f1b"
 metafile = true
 
 [[files]]
 file = "mods/inventory-particles.pw.toml"
-hash = "bcbc59669e4f80e758ce08e43c5443beefeac7156e7ae209bfbdef42f1d397eb"
+hash = "bd634c3096502114549a82a97627311c6205cb80c5a0afbf5892c72a0092857f"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/mossylib.pw.toml"
-hash = "72edcf7832961d09222e70a8add2480e4f65aafe31e66ddfb28805da8386ae3a"
+hash = "34f71a820e77155bd204e6dd52471e055105495f10b720784571860097354fd0"
 metafile = true
 
 [[files]]

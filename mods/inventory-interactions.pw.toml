@@ -1,18 +1,18 @@
 name = "Inventory Interactions"
 filename = "InventoryInteractions-1.1.0+1.21.1+neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "99e2f42141c2a8d126f6da287de3c773c57522b1"
-mode = "metadata:curseforge"
-
+url = "https://cdn.modrinth.com/data/FCzmUKBr/versions/yyaEZFXd/InventoryInteractions-1.1.0%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "c431627ad8daacba8720f1ea7f673e726a14571e1012c999eed170316c2124a1f9fd6e2d3341a2f137c442ab45958c5acfb76114d04a6cc5367d0d3b96ef4f9b"
 [option]
 optional = true
 default = false
 description = "Adds physics to items when they are moved around. Requires Inventory Particles, MossyLib"
 
+
 [update]
-[update.curseforge]
-file-id = 7757111
-project-id = 1426644
+[update.modrinth]
+mod-id = "FCzmUKBr"
+version = "yyaEZFXd"
