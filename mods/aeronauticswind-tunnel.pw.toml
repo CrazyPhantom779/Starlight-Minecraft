@@ -1,0 +1,13 @@
+name = "Aeronautics:Wind Tunnel"
+filename = "windtunnel-1.1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EnEqwk7y/versions/IdHA8JDW/windtunnel-1.1.8.jar"
+hash-format = "sha512"
+hash = "e239a2318cdf9e04d243834fa3898bb123001aa675e6949086e516e7d14514a671fc78c95472dbe67c09e6895495ca51061831ac6e3a9c5dcde7367df7c9e0e8"
+
+[update]
+[update.modrinth]
+mod-id = "EnEqwk7y"
+version = "IdHA8JDW"
