@@ -662,11 +662,6 @@ hash = "131411884bae0bf92888413f7a25ac28340b8d582eb46d9d3dcfc6c44bbd4253"
 metafile = true
 
 [[files]]
-file = "mods/revelationary.pw.toml"
-hash = "d55e53aee70fff4550bd98135c612b6d192a1f1fe82a08609fd124598f1541b2"
-metafile = true
-
-[[files]]
 file = "mods/rftools-base.pw.toml"
 hash = "1fae30f30e50bc282dd45afe19b5aee550b2a78c8be06cfabd8887d171a05fb3"
 metafile = true
@@ -734,11 +729,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "e367860064b14db7c531a5cad9c3ebfcb20ccb4ae8ec0473e9bb3f2f6601f434"
-metafile = true
-
-[[files]]
-file = "mods/spectrum.pw.toml"
-hash = "70733b87e0c013865e2b295b6af82ed3726ea75b5dfd3968fbde30da17a50352"
 metafile = true
 
 [[files]]
