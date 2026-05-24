@@ -782,11 +782,6 @@ hash = "21f98908d94bfdf05ebaedc2142a9edc82d1549c8fff601bca5fba3de28bc2c2"
 metafile = true
 
 [[files]]
-file = "mods/sync-re-forged.pw.toml"
-hash = "796214b49d125023ee7b5ec97dcdc142e4931240f6d252b6c8a55149d443723e"
-metafile = true
-
-[[files]]
 file = "mods/titanium.pw.toml"
 hash = "5063eb16651e0a635194574dee67a6f5d21d724a079904a27127935f6eb1ee31"
 metafile = true
