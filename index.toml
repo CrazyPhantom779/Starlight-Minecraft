@@ -399,6 +399,10 @@ hash = "3a6fa08f57982bc7a560c438900af5d99850b8fb4abf8e44875a6bc28550f194"
 metafile = true
 
 [[files]]
+file = "mods/immersive_portals-6.0.7-all.jar"
+hash = "ed279f2cb7eced337310f9932635f1afd25b3d5b27de233d1cebeaaa7f8d9158"
+
+[[files]]
 file = "mods/integrated-dynamics.pw.toml"
 hash = "2dc570d4895ccd4b307f9c5884306c2592d30f961d554036d48a8abc59ad699a"
 metafile = true
