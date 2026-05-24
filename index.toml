@@ -418,11 +418,6 @@ hash = "a97a589180c303bd1285ade1076005af54430fa706ae23125aa6a14d6b7d039f"
 metafile = true
 
 [[files]]
-file = "mods/integratedmanager.pw.toml"
-hash = "e450fc9c5cd2202d39ccce0b70811ea356d86885a65b095a8ad519c4cbcb72e7"
-metafile = true
-
-[[files]]
 file = "mods/inventory-interactions.pw.toml"
 hash = "68214b3a6f493df1da836f97f9d2687c64597aa3f0f0be910cd53160b7df1f1b"
 metafile = true
