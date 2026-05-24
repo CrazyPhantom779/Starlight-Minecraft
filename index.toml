@@ -289,11 +289,6 @@ hash = "ab61112cdd551cf92f24df3400effd4023748d2197709f0783320de1b96ca08e"
 metafile = true
 
 [[files]]
-file = "mods/create-the-air-war.pw.toml"
-hash = "ca66b6ae9cb704042f821e64c135200994b59729bd85fe8d09aa00af47ba3f4d"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "e66c8649557c5df5d660e64b635576f8aa836c05b14e915b8f4ae119c704d7bf"
 metafile = true
