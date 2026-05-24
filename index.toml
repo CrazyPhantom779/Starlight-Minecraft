@@ -384,11 +384,6 @@ hash = "6c539ea1c6b8a225548301e20158c937aebce0ae3c1122fa73dab25f8ab6cf0a"
 metafile = true
 
 [[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "7fdf7904e35c10ae120cd815204007de560da46eba0bb15227fdc0ff53d15aea"
-metafile = true
-
-[[files]]
 file = "mods/gtbcs-spellbooks.pw.toml"
 hash = "ec265bf2364b67dedc61ae506ab2632e063cb3afb300c0702c60dcf5a0dea2c8"
 metafile = true
@@ -402,10 +397,6 @@ metafile = true
 file = "mods/guideme.pw.toml"
 hash = "3a6fa08f57982bc7a560c438900af5d99850b8fb4abf8e44875a6bc28550f194"
 metafile = true
-
-[[files]]
-file = "mods/immersive_portals-6.0.7-all.jar"
-hash = "ed279f2cb7eced337310f9932635f1afd25b3d5b27de233d1cebeaaa7f8d9158"
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
@@ -541,10 +532,6 @@ metafile = true
 file = "mods/mossylib.pw.toml"
 hash = "34f71a820e77155bd204e6dd52471e055105495f10b720784571860097354fd0"
 metafile = true
-
-[[files]]
-file = "mods/neoglass-0.1.1+alpha-neoforge.jar"
-hash = "21c66fbb2c975077b981acf2417c72e673d69b9527dad1de362dc18f55167b06"
 
 [[files]]
 file = "mods/neruina.pw.toml"
