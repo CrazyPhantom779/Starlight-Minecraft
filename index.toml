@@ -9,6 +9,10 @@ file = "kubejs/server_scripts/extereme_to_mechanical.js"
 hash = "26dbf26d5946296757b21e64e2ee2b073589c59ff06201ee621274837bde6e2f"
 
 [[files]]
+file = "mods/NeoSync-1.0.1.jar"
+hash = "b9454ab7245a7abdbd5510f2381f79990c377515ed9d68d9b0e8f43e4157c62d"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "6ba88636519086742125d081931339f0da0ddb36802dbaeed365ab2a6d9018df"
 metafile = true
