@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "ce98e2f74ee4b66e890e96bcdb319b504e0adf7351b1f58c986c7d1da033af6c"
+hash = "8295058c63b9f1d67cbe816ad84d8e1f79e281938578457429aca52ac8fadb9c"
 metafile = true
 
 [[files]]
@@ -648,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/ponder.pw.toml"
-hash = "3961ca1b0392e96e723fdd36fe751115e036903353b69483a44eccdbb3b8a9ff"
+hash = "3c1cd694a56e09cc7d8889439fcac9212d0cde5cb76c3f1035a3b4295e669798"
 metafile = true
 
 [[files]]
