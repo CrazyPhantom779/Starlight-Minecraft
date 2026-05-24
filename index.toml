@@ -203,6 +203,11 @@ hash = "4dbf9e983972dc0aea736b8a7b78708971bc3a37869bcf812fdc69ca9d39309a"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-toolgun.pw.toml"
+hash = "d562b31fa8b250fc06fac0bd1580f10af44f3984c95fd63d09ff9d3cbfc1fac2"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "c460ea61c0da90cba5859f0d192b7abcff42f1ec07a5de1aa375ea522df7d80f"
 metafile = true
