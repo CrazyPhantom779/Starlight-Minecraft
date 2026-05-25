@@ -1,0 +1,13 @@
+name = "Vestiges of the Present"
+filename = "VestigesOfThePresent 1.21.1-1.6.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M0vIQZbt/versions/2sHHK0qL/VestigesOfThePresent%201.21.1-1.6.6.jar"
+hash-format = "sha512"
+hash = "2c41bdff954fa1140f03472852662138988dbdabf7e59d54956e25946aae4c3b5e457df10341d71fb8010c30b9a082d2f5e038c4e0b4dafa38c9d6d3019e1af5"
+
+[update]
+[update.modrinth]
+mod-id = "M0vIQZbt"
+version = "2sHHK0qL"

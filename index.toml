@@ -898,6 +898,11 @@ hash = "a72b8c5632719771f919b9bda5c6ab23772ca69b2ff96b0ee3ac6d6b4d798611"
 metafile = true
 
 [[files]]
+file = "mods/vestiges-of-the-present.pw.toml"
+hash = "32fa7583950c63a7096281368884c6a2bcc163976b56cdaa074862e2bba16a93"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
