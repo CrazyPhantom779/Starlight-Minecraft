@@ -48,6 +48,16 @@ hash = "19d6b20763edf0247e395db37d6e7e5b012ca063f5820c81a6330baff2218c4e"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified-ie.pw.toml"
+hash = "a8e59ef8e09365c7feaebf2de286c93f0dbb490ccc9193e6ccaf37ac257f9019"
+metafile = true
+
+[[files]]
+file = "mods/almostunified.pw.toml"
+hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
+metafile = true
+
+[[files]]
 file = "mods/analog-audio.pw.toml"
 hash = "7a002da9523d1fb204454508b25d7f9de93dbf752660034a61715d0b4614198d"
 metafile = true
