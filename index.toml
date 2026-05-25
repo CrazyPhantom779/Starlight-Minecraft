@@ -373,6 +373,11 @@ hash = "e1c5c80dacbbb218af03ad9cd76b2430e0e85763b6a7c867ee500630c998ce8e"
 metafile = true
 
 [[files]]
+file = "mods/engineers-delight.pw.toml"
+hash = "efbe090e0b81e1d8968cf929ac12ac63240216356398fafc12f99f589a64b85a"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
 metafile = true
@@ -428,6 +433,16 @@ hash = "3a6fa08f57982bc7a560c438900af5d99850b8fb4abf8e44875a6bc28550f194"
 metafile = true
 
 [[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
+metafile = true
+
+[[files]]
+file = "mods/immersivepetroleum.pw.toml"
+hash = "3eafdfa8267d75e9f90b7bebaca1529591a9d7651f312f8091f0adfcac19724f"
+metafile = true
+
+[[files]]
 file = "mods/integrated-dynamics.pw.toml"
 hash = "2dc570d4895ccd4b307f9c5884306c2592d30f961d554036d48a8abc59ad699a"
 metafile = true
@@ -480,6 +495,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "2e16af87696f93732c20c9ee426b2e27996bee140be17c26011fe47fec586de2"
+metafile = true
+
+[[files]]
+file = "mods/jei-multiblocks.pw.toml"
+hash = "2649d9273df4a10cceeec5ca5d051a929df04f13d46d5418e8c2f226628219bb"
 metafile = true
 
 [[files]]
@@ -555,6 +575,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "d7d730098fdb28da7ea837a7651f815b90a5b3cdc17ae268bc3635e546c14320"
+metafile = true
+
+[[files]]
+file = "mods/more-immersive-wires.pw.toml"
+hash = "6a64bcb0c79672e279439912aa126edf76ca436910eea2b916299b823eccf667"
 metafile = true
 
 [[files]]
