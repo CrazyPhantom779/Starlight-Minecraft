@@ -458,6 +458,11 @@ hash = "6c539ea1c6b8a225548301e20158c937aebce0ae3c1122fa73dab25f8ab6cf0a"
 metafile = true
 
 [[files]]
+file = "mods/glodium.pw.toml"
+hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
+metafile = true
+
+[[files]]
 file = "mods/gtbcs-spellbooks.pw.toml"
 hash = "ec265bf2364b67dedc61ae506ab2632e063cb3afb300c0702c60dcf5a0dea2c8"
 metafile = true
@@ -865,6 +870,16 @@ metafile = true
 [[files]]
 file = "mods/stellaris.pw.toml"
 hash = "21f98908d94bfdf05ebaedc2142a9edc82d1549c8fff601bca5fba3de28bc2c2"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "3c08d6331ca871abdfa7a185011d2a6349a1125cc6b2cf87f9c89ca4043dbe70"
 metafile = true
 
 [[files]]
