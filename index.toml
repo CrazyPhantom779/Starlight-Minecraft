@@ -23,8 +23,18 @@ hash = "d136f082a706b21a11b7e35bb805582966e9455f4fbeae9a02387b7dbc4c3574"
 metafile = true
 
 [[files]]
+file = "mods/ae2-omni-cells.pw.toml"
+hash = "90293ff38fc199a837b0b9d1b1f5eed7473c8017911ae62a49379416c3de5d35"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "297cca22de5c9892d175657b89e17c4b1718f313ac0022265a658806d4f9407c"
+metafile = true
+
+[[files]]
+file = "mods/ae2helpers.pw.toml"
+hash = "f0f3c0a2043de2b5142f17c7dbb78356afcabef4b9582faab9832a668125cd41"
 metafile = true
 
 [[files]]
@@ -83,6 +93,11 @@ hash = "256390b9c0ca74eb6260597f83afaccf36fbd121313eae8c9e1016af971b04e0"
 metafile = true
 
 [[files]]
+file = "mods/applied-pneumatics.pw.toml"
+hash = "2f89a436286d25329b2b1bd372bc0cfb503cefef0eb1a68f2fc5d53582087b98"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6a9ca5c65d6ba60d1a9e5c8c3d9607fd70a6912dabe8f99cc74de4233d68108f"
 metafile = true
@@ -105,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "f763b660c0ecd85763d8298be422a00c3d1968e99fe4da01d643ceebfecc6136"
+metafile = true
+
+[[files]]
+file = "mods/betterp2p.pw.toml"
+hash = "265f8240cd459bc3f47a9029e622dc16eb638fde4b9894e79ce53305f50b90ec"
 metafile = true
 
 [[files]]
@@ -318,6 +338,11 @@ hash = "9ae4ab8fe5a73e1f78bf0991f16a9c6d592e0b85f30601fe37b7f26cf0782f58"
 metafile = true
 
 [[files]]
+file = "mods/create-stock-bridge.pw.toml"
+hash = "e04ae91b53c33f6a4dea9ebc82be4255a56460a9e095a3a1fd748434e5dfb3bb"
+metafile = true
+
+[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "ab61112cdd551cf92f24df3400effd4023748d2197709f0783320de1b96ca08e"
 metafile = true
@@ -390,6 +415,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
+metafile = true
+
+[[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "0a5570c6ae3540f4b058e84f1dfee75c0b2367dbbf3578dcff927183f9df3973"
 metafile = true
 
 [[files]]
@@ -573,6 +603,11 @@ hash = "eaa6320c41516ed8f4525a9bf8f53aca297ce942c4abab6264b5bc3e07025ca0"
 metafile = true
 
 [[files]]
+file = "mods/mega.pw.toml"
+hash = "c9f9996ced5f4abf2ab982bb2521bef1798cf1fc6d6ebc435e38075894921efe"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
@@ -600,6 +635,11 @@ metafile = true
 [[files]]
 file = "mods/mossylib.pw.toml"
 hash = "34f71a820e77155bd204e6dd52471e055105495f10b720784571860097354fd0"
+metafile = true
+
+[[files]]
+file = "mods/neoecoae.pw.toml"
+hash = "6788ba13c44c8eb630ebadd3c96e6cfc14b5352d6aa8474232fac3416d978d3c"
 metafile = true
 
 [[files]]
@@ -673,6 +713,11 @@ hash = "0ce5a698dfeed01077e4b4eca7176491a997364ee7ee475640e495e1647d2e04"
 metafile = true
 
 [[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "fcac6a68534bf73256b6d04cc4ee9347d5c920cf7d52ea8d811c21fcc99aaf53"
+metafile = true
+
+[[files]]
 file = "mods/polylib.pw.toml"
 hash = "bf13e18601f17a7520c0718eb6b8a951f87291c079a457cc1afbd67f42ddabab"
 metafile = true
@@ -688,6 +733,11 @@ hash = "92446d159e74cb755c54cfffb6a3e5a0976ec4d203da360a327c6010daef3b51"
 metafile = true
 
 [[files]]
+file = "mods/power-grid.pw.toml"
+hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a5170d69ea069773cad9186c1bc7f51bfc82045336292943b176875ccb55b0fe"
 metafile = true
@@ -695,6 +745,16 @@ metafile = true
 [[files]]
 file = "mods/re-avaritia.pw.toml"
 hash = "0b107ea3487f9649336d3d9422d2f13ac4c46d163bd9b46a4dff8a2436a6489f"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-applied-energistics-2.pw.toml"
+hash = "08659860d97f795498d9ea9681f91457d7fe55f4bf54ab5c8dbb8c88db87c5d5"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "b4cb292255e46d058ef9c4a6bcdf562ae539489a31d0b4bea3718042d98e5c86"
 metafile = true
 
 [[files]]
